@@ -66,3 +66,5 @@ This script copies HTML files from the current working directory to the parent d
 This script moves files beginning with an uppercase letter to the directory /tmp/u.
 ## Script 101-clean_emacs
 This script deletes files in the current directory that end with the character ~.
+## Script 102-tree
+This script creates the directories welcome/, welcome/to/, and welcome/to/school/ in the current directory.
