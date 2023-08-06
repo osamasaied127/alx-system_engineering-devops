@@ -45,3 +45,7 @@ This script deletes the directory named `my_first_directory` from the `/tmp` dir
 ## Script 10-back
 
 This script changes the working directory to the previous one.
+
+## Script 11-lists
+
+This script lists all files in the current directory, the parent of the working directory, and the /boot directory in long format.
