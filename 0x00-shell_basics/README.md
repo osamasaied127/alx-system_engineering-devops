@@ -58,3 +58,7 @@ This script prints the type of the file named `iamafile` in the `/tmp` directory
 ## Script 13-symbolic_link
 
 This script creates a symbolic link named `__ls__` to `/bin/ls` in the current directory.
+
+## Script 14-copy_html
+
+This script copies HTML files from the current working directory to the parent directory, only if they are newer or do not exist in the parent directory.
