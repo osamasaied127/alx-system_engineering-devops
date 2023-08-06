@@ -62,9 +62,19 @@ This script creates a symbolic link named `__ls__` to `/bin/ls` in the current d
 ## Script 14-copy_html
 
 This script copies HTML files from the current working directory to the parent directory, only if they are newer or do not exist in the parent directory.
+
 ## Script 100-lets_move
+
 This script moves files beginning with an uppercase letter to the directory /tmp/u.
+
 ## Script 101-clean_emacs
+
 This script deletes files in the current directory that end with the character ~.
+
 ## Script 102-tree
+
 This script creates the directories welcome/, welcome/to/, and welcome/to/school/ in the current directory.
+
+## Magic File school.mgc
+
+This magic file `school.mgc` can be used with the `file` command to detect School data files containing the string "SCHOOL" at offset 0.
