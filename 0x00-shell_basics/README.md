@@ -41,3 +41,7 @@ This script deletes the file named `betty` from `/tmp/my_first_directory`.
 ## Script 9-firstdirdeletion
 
 This script deletes the directory named `my_first_directory` from the `/tmp` directory.
+
+## Script 10-back
+
+This script changes the working directory to the previous one.
