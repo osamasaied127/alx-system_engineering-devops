@@ -62,3 +62,5 @@ This script creates a symbolic link named `__ls__` to `/bin/ls` in the current d
 ## Script 14-copy_html
 
 This script copies HTML files from the current working directory to the parent directory, only if they are newer or do not exist in the parent directory.
+## Script 100-lets_move
+This script moves files beginning with an uppercase letter to the directory /tmp/u.
