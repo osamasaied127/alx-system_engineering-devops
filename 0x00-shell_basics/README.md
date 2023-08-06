@@ -33,3 +33,7 @@ This script creates a directory named `my_first_directory` in the `/tmp/` direct
 ## Script 7-movethatfile
 
 This script moves the file named `betty` from `/tmp/` to `/tmp/my_first_directory/`.
+
+## Script 8-firstdelete
+
+This script deletes the file named `betty` from `/tmp/my_first_directory`.
