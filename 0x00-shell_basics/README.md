@@ -49,3 +49,7 @@ This script changes the working directory to the previous one.
 ## Script 11-lists
 
 This script lists all files in the current directory, the parent of the working directory, and the /boot directory in long format.
+
+## Script 12-file_type
+
+This script prints the type of the file named `iamafile` in the `/tmp` directory.
