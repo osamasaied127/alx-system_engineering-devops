@@ -1,4 +1,5 @@
-# Shell Basics Scripts
+
+0;276;0c# Shell Basics Scripts
 
 This directory contains shell scripts for various basic tasks.
 
