@@ -75,6 +75,10 @@ This script deletes files in the current directory that end with the character ~
 
 This script creates the directories welcome/, welcome/to/, and welcome/to/school/ in the current directory.
 
+## Command 103-commas
+
+This command lists all the files and directories of the current directory, separated by commas (,), with specific sorting and formatting rules.
+
 ## Magic File school.mgc
 
 This magic file `school.mgc` can be used with the `file` command to detect School data files containing the string "SCHOOL" at offset 0.
