@@ -33,3 +33,7 @@ This script creates a file named '*\\'"Best School"\'\\*$\?\*\*\*\*\*:' containi
 8-cwd_state
 
 This script writes the result of the `ls -la` command into the file `ls_cwd_content`, overwriting it if it already exists or creating it if it doesn't.
+
+9-duplicate_last_line
+
+This script duplicates the last line of the file `iacta`.
