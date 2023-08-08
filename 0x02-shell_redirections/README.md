@@ -21,3 +21,7 @@ This script displays the last 10 lines of the `/etc/passwd` file using the `tail
 # 5-firstlines
 
 This script displays the first 10 lines of the `/etc/passwd` file using the `head` command.
+
+# 6-third_line
+
+This script displays the third line of the file `iacta` using the `head` and `tail` commands.
