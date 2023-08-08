@@ -46,7 +46,7 @@ This script deletes all regular files (not directories) with a .js extension in 
 
 This script counts the number of directories and subdirectories in the current directory, excluding the current and parent directories.
 
-# 12-newest_files
+11;rgb:0000/0000/0000# 12-newest_files
 
 This script displays the 10 newest files in the current directory, sorted from the newest to the oldest.
 
@@ -101,3 +101,7 @@ This script lists all the files with a .gif extension in the current directory a
 # 102-acrostic
 
 This script decodes acrostics that use the first letter of each line. The 'decoded' message ends with a new line.
+
+# 103-the_biggest_fan
+
+This script parses web server logs in TSV format as input and displays the top 11 hosts or IP addresses which made the most requests. The output is ordered by the number of requests, with the most active host or IP at the top.
