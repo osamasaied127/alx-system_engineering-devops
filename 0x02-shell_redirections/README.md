@@ -97,3 +97,7 @@ This command finds all empty files and directories in the current directory and 
 # 101-gifs
 
 This script lists all the files with a .gif extension in the current directory and all its sub-directories. Hidden files are listed, only regular files (not directories) are displayed, and the names of the files are displayed without their extensions. The files are sorted by byte values in a case-insensitive manner. One file name per line, and the listing ends with a new line.
+
+# 102-acrostic
+
+This script decodes acrostics that use the first letter of each line. The 'decoded' message ends with a new line.
