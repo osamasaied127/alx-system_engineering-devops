@@ -6,3 +6,6 @@ This script is a basic bash script that prints "Hello, World" followed by a new 
 
 This script displays a confused smiley "(Ôo)'.
 
+# 2-hellofile
+
+This script displays the content of the `/etc/passwd` file.
