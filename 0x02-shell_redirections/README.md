@@ -29,3 +29,7 @@ This script displays the third line of the file `iacta` using the `head` and `ta
 # 7-file
 
 This script creates a file named '*\\'"Best School"\'\\*$\?\*\*\*\*\*:' containing the text "Best School" ending with a new line.
+
+8-cwd_state
+
+This script writes the result of the `ls -la` command into the file `ls_cwd_content`, overwriting it if it already exists or creating it if it doesn't.
