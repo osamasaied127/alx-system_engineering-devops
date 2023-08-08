@@ -49,3 +49,15 @@ This script counts the number of directories and subdirectories in the current d
 # 12-newest_files
 
 This script displays the 10 newest files in the current directory, sorted from the newest to the oldest.
+
+ 13-unique
+
+This script takes a list of words as input and prints only words that appear exactly once, sorted in alphabetical order.
+
+14-findthatword
+
+This script displays lines containing the pattern "root" from the file `/etc/passwd`.
+
+# 15-countthatword
+
+This script displays the number of lines that contain the pattern "bin" in the file `/etc/passwd`.
