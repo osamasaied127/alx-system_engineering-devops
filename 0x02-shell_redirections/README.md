@@ -25,3 +25,7 @@ This script displays the first 10 lines of the `/etc/passwd` file using the `hea
 # 6-third_line
 
 This script displays the third line of the file `iacta` using the `head` and `tail` commands.
+
+# 7-file
+
+This script creates a file named '*\\'"Best School"\'\\*$\?\*\*\*\*\*:' containing the text "Best School" ending with a new line.
