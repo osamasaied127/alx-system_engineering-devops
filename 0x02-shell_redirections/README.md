@@ -93,3 +93,7 @@ This script displays all users and their home directories, sorted by users, base
 # 100-empty_casks
 
 This command finds all empty files and directories in the current directory and all sub-directories. Only the names of the files and directories are displayed (not the entire path), including hidden files. One file name per line, and the listing ends with a new line.
+
+# 101-gifs
+
+This script lists all the files with a .gif extension in the current directory and all its sub-directories. Hidden files are listed, only regular files (not directories) are displayed, and the names of the files are displayed without their extensions. The files are sorted by byte values in a case-insensitive manner. One file name per line, and the listing ends with a new line.
