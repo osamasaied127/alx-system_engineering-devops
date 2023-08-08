@@ -17,3 +17,7 @@ This script displays the content of both the `/etc/passwd` and `/etc/hosts` file
 # 4-lastlines
 
 This script displays the last 10 lines of the `/etc/passwd` file using the `tail` command.
+
+# 5-firstlines
+
+This script displays the first 10 lines of the `/etc/passwd` file using the `head` command.
